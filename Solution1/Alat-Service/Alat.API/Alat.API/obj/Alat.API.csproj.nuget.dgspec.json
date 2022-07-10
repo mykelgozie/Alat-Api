@@ -1,0 +1,387 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\G-Mykel\\Desktop\\ALat\\Solution1\\Alat-Service\\Alat.API\\Alat.API\\Alat.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\G-Mykel\\Desktop\\ALat\\Solution1\\Alat-Service\\Alat.API\\Alat.API\\Alat.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\G-Mykel\\Desktop\\ALat\\Solution1\\Alat-Service\\Alat.API\\Alat.API\\Alat.API.csproj",
+        "projectName": "Alat.API",
+        "projectPath": "C:\\Users\\G-Mykel\\Desktop\\ALat\\Solution1\\Alat-Service\\Alat.API\\Alat.API\\Alat.API.csproj",
+        "packagesPath": "C:\\Users\\G-Mykel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\G-Mykel\\Desktop\\ALat\\Solution1\\Alat-Service\\Alat.API\\Alat.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\G-Mykel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\G-Mykel\\Desktop\\ALat\\Solution1\\Alat-Service\\Alat.API\\Alat.Core\\Alat.Core.csproj": {
+                "projectPath": "C:\\Users\\G-Mykel\\Desktop\\ALat\\Solution1\\Alat-Service\\Alat.API\\Alat.Core\\Alat.Core.csproj"
+              },
+              "C:\\Users\\G-Mykel\\Desktop\\ALat\\Solution1\\Alat-Service\\Alat.API\\Alat.Data\\Alat.Data.csproj": {
+                "projectPath": "C:\\Users\\G-Mykel\\Desktop\\ALat\\Solution1\\Alat-Service\\Alat.API\\Alat.Data\\Alat.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\G-Mykel\\Desktop\\ALat\\Solution1\\Alat-Service\\Alat.API\\Alat.Core\\Alat.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\G-Mykel\\Desktop\\ALat\\Solution1\\Alat-Service\\Alat.API\\Alat.Core\\Alat.Core.csproj",
+        "projectName": "Alat.Core",
+        "projectPath": "C:\\Users\\G-Mykel\\Desktop\\ALat\\Solution1\\Alat-Service\\Alat.API\\Alat.Core\\Alat.Core.csproj",
+        "packagesPath": "C:\\Users\\G-Mykel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\G-Mykel\\Desktop\\ALat\\Solution1\\Alat-Service\\Alat.API\\Alat.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\G-Mykel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\G-Mykel\\Desktop\\ALat\\Solution1\\Alat-Service\\Alat.API\\Alat.Data\\Alat.Data.csproj": {
+                "projectPath": "C:\\Users\\G-Mykel\\Desktop\\ALat\\Solution1\\Alat-Service\\Alat.API\\Alat.Data\\Alat.Data.csproj"
+              },
+              "C:\\Users\\G-Mykel\\Desktop\\ALat\\Solution1\\Alat-Service\\Alat.API\\Alat.Dtos\\Alat.Dtos.csproj": {
+                "projectPath": "C:\\Users\\G-Mykel\\Desktop\\ALat\\Solution1\\Alat-Service\\Alat.API\\Alat.Dtos\\Alat.Dtos.csproj"
+              },
+              "C:\\Users\\G-Mykel\\Desktop\\ALat\\Solution1\\Alat-Service\\Alat.API\\Alat.Model\\Alat.Model.csproj": {
+                "projectPath": "C:\\Users\\G-Mykel\\Desktop\\ALat\\Solution1\\Alat-Service\\Alat.API\\Alat.Model\\Alat.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\G-Mykel\\Desktop\\ALat\\Solution1\\Alat-Service\\Alat.API\\Alat.Data\\Alat.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\G-Mykel\\Desktop\\ALat\\Solution1\\Alat-Service\\Alat.API\\Alat.Data\\Alat.Data.csproj",
+        "projectName": "Alat.Data",
+        "projectPath": "C:\\Users\\G-Mykel\\Desktop\\ALat\\Solution1\\Alat-Service\\Alat.API\\Alat.Data\\Alat.Data.csproj",
+        "packagesPath": "C:\\Users\\G-Mykel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\G-Mykel\\Desktop\\ALat\\Solution1\\Alat-Service\\Alat.API\\Alat.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\G-Mykel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\G-Mykel\\Desktop\\ALat\\Solution1\\Alat-Service\\Alat.API\\Alat.Model\\Alat.Model.csproj": {
+                "projectPath": "C:\\Users\\G-Mykel\\Desktop\\ALat\\Solution1\\Alat-Service\\Alat.API\\Alat.Model\\Alat.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\G-Mykel\\Desktop\\ALat\\Solution1\\Alat-Service\\Alat.API\\Alat.Dtos\\Alat.Dtos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\G-Mykel\\Desktop\\ALat\\Solution1\\Alat-Service\\Alat.API\\Alat.Dtos\\Alat.Dtos.csproj",
+        "projectName": "Alat.Dtos",
+        "projectPath": "C:\\Users\\G-Mykel\\Desktop\\ALat\\Solution1\\Alat-Service\\Alat.API\\Alat.Dtos\\Alat.Dtos.csproj",
+        "packagesPath": "C:\\Users\\G-Mykel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\G-Mykel\\Desktop\\ALat\\Solution1\\Alat-Service\\Alat.API\\Alat.Dtos\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\G-Mykel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\G-Mykel\\Desktop\\ALat\\Solution1\\Alat-Service\\Alat.API\\Alat.Model\\Alat.Model.csproj": {
+                "projectPath": "C:\\Users\\G-Mykel\\Desktop\\ALat\\Solution1\\Alat-Service\\Alat.API\\Alat.Model\\Alat.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\G-Mykel\\Desktop\\ALat\\Solution1\\Alat-Service\\Alat.API\\Alat.Model\\Alat.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\G-Mykel\\Desktop\\ALat\\Solution1\\Alat-Service\\Alat.API\\Alat.Model\\Alat.Model.csproj",
+        "projectName": "Alat.Model",
+        "projectPath": "C:\\Users\\G-Mykel\\Desktop\\ALat\\Solution1\\Alat-Service\\Alat.API\\Alat.Model\\Alat.Model.csproj",
+        "packagesPath": "C:\\Users\\G-Mykel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\G-Mykel\\Desktop\\ALat\\Solution1\\Alat-Service\\Alat.API\\Alat.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\G-Mykel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Alat.API</name>
+    </assembly>
+    <members>
+        <member name="M:Alat.API.Controllers.CustomerController.Get(System.Int32,System.Int32)">
+            <summary>
+            Get all Customer
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Alat.API.Controllers.CustomerController.Post(Alat.Model.Customer)">
+            <summary>
+            Create Customer
+            </summary>
+            <param name="customer"></param>
+        </member>
+    </members>
+</doc>

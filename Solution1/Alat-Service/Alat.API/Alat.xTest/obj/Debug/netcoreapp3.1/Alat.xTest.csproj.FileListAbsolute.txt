@@ -1,0 +1,9 @@
+C:\Users\G-Mykel\Desktop\ALat\Solution1\Alat-Service\Alat.API\Alat.xTest\bin\Debug\netcoreapp3.1\Alat.xTest.deps.json
+C:\Users\G-Mykel\Desktop\ALat\Solution1\Alat-Service\Alat.API\Alat.xTest\bin\Debug\netcoreapp3.1\Alat.xTest.dll
+C:\Users\G-Mykel\Desktop\ALat\Solution1\Alat-Service\Alat.API\Alat.xTest\bin\Debug\netcoreapp3.1\Alat.xTest.pdb
+C:\Users\G-Mykel\Desktop\ALat\Solution1\Alat-Service\Alat.API\Alat.xTest\obj\Debug\netcoreapp3.1\Alat.xTest.csprojAssemblyReference.cache
+C:\Users\G-Mykel\Desktop\ALat\Solution1\Alat-Service\Alat.API\Alat.xTest\obj\Debug\netcoreapp3.1\Alat.xTest.AssemblyInfoInputs.cache
+C:\Users\G-Mykel\Desktop\ALat\Solution1\Alat-Service\Alat.API\Alat.xTest\obj\Debug\netcoreapp3.1\Alat.xTest.AssemblyInfo.cs
+C:\Users\G-Mykel\Desktop\ALat\Solution1\Alat-Service\Alat.API\Alat.xTest\obj\Debug\netcoreapp3.1\Alat.xTest.csproj.CoreCompileInputs.cache
+C:\Users\G-Mykel\Desktop\ALat\Solution1\Alat-Service\Alat.API\Alat.xTest\obj\Debug\netcoreapp3.1\Alat.xTest.dll
+C:\Users\G-Mykel\Desktop\ALat\Solution1\Alat-Service\Alat.API\Alat.xTest\obj\Debug\netcoreapp3.1\Alat.xTest.pdb

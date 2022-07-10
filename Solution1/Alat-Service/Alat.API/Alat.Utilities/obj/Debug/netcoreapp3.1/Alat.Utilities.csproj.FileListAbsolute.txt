@@ -1,0 +1,9 @@
+C:\Users\G-Mykel\Desktop\ALat\Solution1\Alat-Service\Alat.API\Alat.Utilities\bin\Debug\netcoreapp3.1\Alat.Utilities.deps.json
+C:\Users\G-Mykel\Desktop\ALat\Solution1\Alat-Service\Alat.API\Alat.Utilities\bin\Debug\netcoreapp3.1\Alat.Utilities.dll
+C:\Users\G-Mykel\Desktop\ALat\Solution1\Alat-Service\Alat.API\Alat.Utilities\bin\Debug\netcoreapp3.1\Alat.Utilities.pdb
+C:\Users\G-Mykel\Desktop\ALat\Solution1\Alat-Service\Alat.API\Alat.Utilities\obj\Debug\netcoreapp3.1\Alat.Utilities.csprojAssemblyReference.cache
+C:\Users\G-Mykel\Desktop\ALat\Solution1\Alat-Service\Alat.API\Alat.Utilities\obj\Debug\netcoreapp3.1\Alat.Utilities.AssemblyInfoInputs.cache
+C:\Users\G-Mykel\Desktop\ALat\Solution1\Alat-Service\Alat.API\Alat.Utilities\obj\Debug\netcoreapp3.1\Alat.Utilities.AssemblyInfo.cs
+C:\Users\G-Mykel\Desktop\ALat\Solution1\Alat-Service\Alat.API\Alat.Utilities\obj\Debug\netcoreapp3.1\Alat.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\G-Mykel\Desktop\ALat\Solution1\Alat-Service\Alat.API\Alat.Utilities\obj\Debug\netcoreapp3.1\Alat.Utilities.dll
+C:\Users\G-Mykel\Desktop\ALat\Solution1\Alat-Service\Alat.API\Alat.Utilities\obj\Debug\netcoreapp3.1\Alat.Utilities.pdb

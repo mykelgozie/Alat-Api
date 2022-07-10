@@ -1,0 +1,16 @@
+C:\Users\G-Mykel\Desktop\ALat\Solution1\Alat-Service\Alat.API\Alat.Core\bin\Debug\netcoreapp3.1\Alat.Core.deps.json
+C:\Users\G-Mykel\Desktop\ALat\Solution1\Alat-Service\Alat.API\Alat.Core\bin\Debug\netcoreapp3.1\Alat.Core.dll
+C:\Users\G-Mykel\Desktop\ALat\Solution1\Alat-Service\Alat.API\Alat.Core\bin\Debug\netcoreapp3.1\Alat.Core.pdb
+C:\Users\G-Mykel\Desktop\ALat\Solution1\Alat-Service\Alat.API\Alat.Core\obj\Debug\netcoreapp3.1\Alat.Core.csprojAssemblyReference.cache
+C:\Users\G-Mykel\Desktop\ALat\Solution1\Alat-Service\Alat.API\Alat.Core\obj\Debug\netcoreapp3.1\Alat.Core.AssemblyInfoInputs.cache
+C:\Users\G-Mykel\Desktop\ALat\Solution1\Alat-Service\Alat.API\Alat.Core\obj\Debug\netcoreapp3.1\Alat.Core.AssemblyInfo.cs
+C:\Users\G-Mykel\Desktop\ALat\Solution1\Alat-Service\Alat.API\Alat.Core\obj\Debug\netcoreapp3.1\Alat.Core.csproj.CoreCompileInputs.cache
+C:\Users\G-Mykel\Desktop\ALat\Solution1\Alat-Service\Alat.API\Alat.Core\obj\Debug\netcoreapp3.1\Alat.Core.dll
+C:\Users\G-Mykel\Desktop\ALat\Solution1\Alat-Service\Alat.API\Alat.Core\obj\Debug\netcoreapp3.1\Alat.Core.pdb
+C:\Users\G-Mykel\Desktop\ALat\Solution1\Alat-Service\Alat.API\Alat.Core\bin\Debug\netcoreapp3.1\Alat.Dtos.dll
+C:\Users\G-Mykel\Desktop\ALat\Solution1\Alat-Service\Alat.API\Alat.Core\bin\Debug\netcoreapp3.1\Alat.Model.dll
+C:\Users\G-Mykel\Desktop\ALat\Solution1\Alat-Service\Alat.API\Alat.Core\bin\Debug\netcoreapp3.1\Alat.Dtos.pdb
+C:\Users\G-Mykel\Desktop\ALat\Solution1\Alat-Service\Alat.API\Alat.Core\bin\Debug\netcoreapp3.1\Alat.Model.pdb
+C:\Users\G-Mykel\Desktop\ALat\Solution1\Alat-Service\Alat.API\Alat.Core\obj\Debug\netcoreapp3.1\Alat.Core.csproj.CopyComplete
+C:\Users\G-Mykel\Desktop\ALat\Solution1\Alat-Service\Alat.API\Alat.Core\bin\Debug\netcoreapp3.1\Alat.Data.dll
+C:\Users\G-Mykel\Desktop\ALat\Solution1\Alat-Service\Alat.API\Alat.Core\bin\Debug\netcoreapp3.1\Alat.Data.pdb
