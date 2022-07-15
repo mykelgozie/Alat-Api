@@ -21,6 +21,11 @@ namespace Alat.API.Controllers
             _verificationService = verificationService;
         }
 
+        /// <summary>
+        ///  Verify Phone Number  Request
+        /// </summary>
+        /// <param name="verificationDto"></param>
+        /// <returns></returns>
         // POST api/<PhoneVerifyController>
         [HttpPost]
         public async Task<IActionResult> PostAsync([FromBody] VerificationDto verificationDto)
@@ -29,7 +34,11 @@ namespace Alat.API.Controllers
           return StatusCode(verfyResult.StatusCode, verfyResult);
         }
 
-
+        /// <summary>
+        /// Verify Phone Number 
+        /// </summary>
+        /// <param name="verifyOtpDto"></param>
+        /// <returns></returns>
         // POST api/<PhoneVerifyController>
         [HttpPost]
         [Route("verifyOtp")]
