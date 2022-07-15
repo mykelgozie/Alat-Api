@@ -22,8 +22,9 @@ namespace Alat.Core.Repository
         private readonly IEmailService _emailService;
         private readonly ILogger<UserRepository> _logger;
         private readonly ILocalGovtRepository _localGovtRepository;
+        private readonly IVerificationService _verificationService;
 
-        public UserRepository(UserManager<ApplicationUser> userManager, ILogger<UserRepository> logger, IResponseFactory responseService, AppDbContext appDbContext, IEmailService emailService, ILocalGovtRepository localGovtRepository)
+        public UserRepository(UserManager<ApplicationUser> userManager, ILogger<UserRepository> logger, IResponseFactory responseService, AppDbContext appDbContext, IEmailService emailService, ILocalGovtRepository localGovtRepository, IVerificationService verificationService)
         {
             _userManager = userManager;
             _responseService = responseService;
@@ -31,6 +32,7 @@ namespace Alat.Core.Repository
             _emailService = emailService;
             _logger = logger;
             _localGovtRepository = localGovtRepository;
+            _verificationService = verificationService;
         }
 
         public async Task<ExecutionResponse<ApplicationUser>> CreateUserAsync(Customer customer)
@@ -44,6 +46,14 @@ namespace Alat.Core.Repository
                     _logger.LogInformation($" Customer already Exist");
                     return _responseService.ExecutionResponse<ApplicationUser>("User already Exist in the system", null);
                 }
+
+               var phoneNumberStatus = await _verificationService.OtpStatus(customer.PhoneNumber);
+
+                if (!phoneNumberStatus.Status)
+                {
+                    return _responseService.ExecutionResponse<ApplicationUser>("Phone Number Not Verified", null);
+                }
+
 
                 var lgaResult = await _localGovtRepository.FindLocalGovtsById(customer.Lga);
 

@@ -6,7 +6,7 @@
     <members>
         <member name="M:Alat.API.Controllers.CustomerController.Get(System.Int32,System.Int32)">
             <summary>
-            Create New Customer
+            Get all Customer
             </summary>
             <returns></returns>
         </member>
@@ -15,12 +15,6 @@
             Create Customer
             </summary>
             <param name="customer"></param>
-        </member>
-        <member name="M:Alat.API.Controllers.WeatherForecastController.Get">
-            <summary>
-            efhcgvjh hgh
-            </summary>
-            <returns></returns>
         </member>
     </members>
 </doc>

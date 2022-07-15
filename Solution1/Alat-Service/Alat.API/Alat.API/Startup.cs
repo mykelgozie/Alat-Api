@@ -58,6 +58,7 @@ namespace Alat.API
             services.AddTransient<IHttpGenericFactory, HttpGenericFactory>();
             services.AddTransient<IEmailService, EmailService>();
             services.AddTransient<ILocalGovtRepository, LocalGovtRepository>();
+            services.AddTransient<IVerificationService, VerificationService>();
             services.AddHttpClient();
             services.AddControllers();
         }

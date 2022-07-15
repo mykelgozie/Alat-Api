@@ -16,5 +16,6 @@ namespace Alat.Data
 
         public DbSet<State> States { get; set; }
         public DbSet<Lga> Lgas { get; set; }
+        public DbSet<OtpVerification> otpVerifications { get; set; }
     }
 }
